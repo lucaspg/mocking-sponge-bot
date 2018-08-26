@@ -1,9 +1,9 @@
 {
   "name": "mocking-sponge-bot",
   "version": "0.0.0",
-  "description": "my transcendent bot",
+  "description": "A Telegram bot to generate moCkINg SpOngebOB messages",
   "repository": {
-    "url": "Lucas Gonçalves/mocking-sponge-bot",
+    "url": "lucaspg/mocking-sponge-bot",
     "type": "git"
   },
   "main": "index.js",
